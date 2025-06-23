@@ -1,7 +1,7 @@
 ![Blockchain Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/313433379_1363808727779582_7432626601483796681_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE54Jg-k_gdr_GaiSyNBjNmqqMJkXoqe2iqowmReip7aMgb3sqSLlYR5sm8TilYnebhULXDvqT285SsjmBTh8yJ&_nc_ohc=u_NTLeq9NsIQ7kNvgGGvF_Z&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAyqVjSBt-v2bBqjBq_s5juO1bWF5NfkBrcUawEiNq09g&oe=663375F0)
 
 ### Hi there 👋, I am Sourav
-#### lockchain Developer
+#### Blockchain Developer
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
